@@ -13,9 +13,9 @@ ext {
     libraryDescription = 'Android Library to validate various fields'
 
     // Your github repo link
-    siteUrl = 'https://github.com/nisrulz/UploadToBintray'
-    gitUrl = 'https://github.com/nisrulz/UploadToBintray.git'
-    githubRepository= 'nisrulz/UploadToBintray'
+    siteUrl = 'https://github.com/Swati4star/Validator'
+    gitUrl = 'https://github.com/Swati4star/Validator.git'
+    githubRepository= 'swati4star/Validator'
 
     libraryVersion = '1.0'
 
@@ -25,7 +25,7 @@ ext {
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-    allLicenses = ["Apache-2.0"]
+    allLicenses = ['Apache-2.0']
 }
 
 android {

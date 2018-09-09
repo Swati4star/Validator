@@ -1,1 +1,1 @@
-include ':app', ':customview', ':validator'
+include ':app', ':validator'
